@@ -38,7 +38,8 @@ A lightweight and interactive GUI was developed to make the system accessible:
 
 <img width="1510" height="882" alt="park" src="https://github.com/user-attachments/assets/43766928-a199-442e-9f26-6795a4ae5cc4" />
 
-
+### Web App Link
+[Web App](https://urban-issue-detection-app.streamlit.app/)
 
 ---
 
